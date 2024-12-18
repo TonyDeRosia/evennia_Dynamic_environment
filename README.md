@@ -1,61 +1,40 @@
-# evennia_Dynamic_environment
-This Evennia project uses a dynamic auto loader script so all you do is drop py files into the dynamic folder and they will work automatically.
+# Welcome to Evennia!
 
-    Dynamic Command Auto-Loader:
-        Commands placed in the commands/dynamic folder are automatically discovered and loaded at runtime using the command_auto_loader.py.
-        No manual edits to default_cmdsets.py or hardcoding of individual commands are needed—just drop your .py file into the dynamic folder, and the auto-loader takes care of the rest.
+This is your game directory, set up to let you start with
+your new game right away. An overview of this directory is found here:
+https://github.com/evennia/evennia/wiki/Directory-Overview#the-game-directory
 
-    Scripts Folder for Persistent Systems:
-        The commands/scripts folder is reserved for implementing persistent game systems such as combat mechanics, buffs, and prompts.
-        These scripts are modular and interact seamlessly with commands or game objects, ensuring maintainability and clarity.
+You can delete this readme file when you've read it and you can
+re-arrange things in this game-directory to suit your own sense of
+organisation (the only exception is the directory structure of the
+`server/` directory, which Evennia expects). If you change the structure
+you must however also edit/add to your settings file to tell Evennia
+where to look for things.
 
-    Clean Setup:
-        Core Evennia files, like default_cmdsets.py and settings.py, remain unmodified.
-        All customizations are isolated within the commands/dynamic and commands/scripts folders, adhering to Evennia's best practices for extensibility.
+Your game's main configuration file is found in
+`server/conf/settings.py` (but you don't need to change it to get
+started). If you just created this directory (which means you'll already
+have a `virtualenv` running if you followed the default instructions),
+`cd` to this directory then initialize a new database using
 
-    Advanced Emote System:
-        A robust emote system dynamically generates commands for predefined emotes like hello, wave, and spit.
-        This allows for immersive and dynamic interactions without the overhead of manually defining each emote command.
+    evennia migrate
 
-How the Auto-Loader Works
+To start the server, stand in this directory and run
 
-The command_auto_loader.py:
+    evennia start
 
-    Dynamically scans the commands/dynamic folder for .py files.
-    Automatically loads command classes (subclasses of Evennia’s Command) and adds them to the game's command set.
-    This eliminates the need to register commands manually, making it quick and intuitive to add or update game features.
+This will start the server, logging output to the console. Make
+sure to create a superuser when asked. By default you can now connect
+to your new game using a MUD client on `localhost`, port `4000`.  You can
+also log into the web client by pointing a browser to
+`http://localhost:4001`.
 
-Example Workflow:
+# Getting started
 
-    Create a new Python file in commands/dynamic/.
-    Define your command class (e.g., class CmdWave(Command)).
-    Reload the server (evennia reload), and the command is ready to use in the game.
+From here on you might want to look at one of the beginner tutorials:
+http://github.com/evennia/evennia/wiki/Tutorials.
 
-Scripts Folder Usage
+Evennia's documentation is here:
+https://github.com/evennia/evennia/wiki.
 
-The commands/scripts folder is dedicated to persistent and reusable systems that require continuous updates or interaction with game objects. Examples include:
-
-    Player buff management.
-    Real-time stat tracking.
-    Combat or economic systems.
-
-Scripts in this folder typically use Evennia's DefaultScript or interact with TICKER_HANDLER for periodic updates.
-
-Modularity:
-
-    All commands, scripts, and systems are standalone and self-contained.
-    New features can be added without impacting existing functionality.
-
-Dynamic Loading:
-
-    The dynamic folder handles commands, while the scripts folder is reserved for systems.
-    Developers can focus on implementing features instead of managing configuration files.
-
-Seamless Integration:
-
-    The auto-loader ensures commands are added automatically, while scripts are tied to objects or server events using Evennia's lifecycle hooks (at_server_start, at_script_creation, etc.).
-
-Future-Proof Design:
-
-    The setup avoids modifying Evennia defaults, making it easier to update Evennia versions or migrate features to other projects.
-
+Enjoy!
