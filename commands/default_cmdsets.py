@@ -1,5 +1,5 @@
 from evennia import default_cmds
-from commands.command_auto_loader import setup_dynamic_commands  # Dynamic loader
+from commands.dynamic_command_loader import setup_dynamic_commands
 
 
 class CharacterCmdSet(default_cmds.CharacterCmdSet):

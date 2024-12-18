@@ -727,3 +727,460 @@ None2024-12-18 00:54:29 [EE] Error encountered for cmdset at path 'commands.defa
 2024-12-18 01:43:28 [..] Emote performed: drakmardok: spit 
 2024-12-18 01:52:11 [WW] Warning: Idmapper flush called more than once in 5.0 min interval. Check memory usage.
 2024-12-18 01:52:34 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+Removing stale pidfile /home/tony/mainmud/rrmud/server/server.pid
+2024-12-18 04:53:38 [..] Loaded.
+2024-12-18 04:53:38 [!!] Removing stale pidfile /home/tony/mainmud/rrmud/server/server.pid
+2024-12-18 04:53:38 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 04:53:38 [..] Loaded.
+2024-12-18 04:53:38 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 04:53:38 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 04:53:38 [..] Webserver starting on 4005
+2024-12-18 04:53:38 [..] Evennia Server successfully started.
+2024-12-18 04:54:13 [..] Server disconnected from the portal.
+2024-12-18 04:54:13 [..] Main loop terminated.
+2024-12-18 04:54:13 [..] Server Shut Down.
+2024-12-18 04:54:14 [..] Loaded.
+2024-12-18 04:54:13 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 04:54:14 [..] Loaded.
+2024-12-18 04:54:14 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 04:54:14 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 04:54:14 [..] Webserver starting on 4005
+2024-12-18 04:54:14 [..] Server successfully reloaded.
+2024-12-18 04:54:27 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 04:54:27 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 04:54:28 [..] [INFO] Loaded command: command from emote_system_advanced.py
+2024-12-18 04:54:34 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-18 04:56:58 [..] Server disconnected from the portal.
+2024-12-18 04:56:58 [..] Main loop terminated.
+2024-12-18 04:56:58 [..] Server Shut Down.
+2024-12-18 04:56:59 [..] Loaded.
+2024-12-18 04:56:58 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 04:56:59 [..] Loaded.
+2024-12-18 04:56:59 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 04:56:59 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 04:56:59 [..] Webserver starting on 4005
+2024-12-18 04:56:59 [..] Server successfully reloaded.
+2024-12-18 04:57:12 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 04:57:12 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 04:57:29 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-18 05:05:21 [..] Server disconnected from the portal.
+2024-12-18 05:05:21 [..] Main loop terminated.
+2024-12-18 05:05:21 [..] Server Shut Down.
+2024-12-18 05:05:22 [..] Loaded.
+2024-12-18 05:05:21 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:05:22 [..] Loaded.
+2024-12-18 05:05:22 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:05:22 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:05:22 [..] Webserver starting on 4005
+2024-12-18 05:05:22 [..] Server successfully reloaded.
+2024-12-18 05:05:34 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 05:05:34 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 05:05:35 [..] [INFO] Loaded command: hello from hello.py
+2024-12-18 05:05:43 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-18 05:05:59 [..] Server disconnected from the portal.
+2024-12-18 05:05:59 [..] Main loop terminated.
+2024-12-18 05:05:59 [..] Server Shut Down.
+2024-12-18 05:06:00 [..] Loaded.
+2024-12-18 05:05:59 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:06:00 [..] Loaded.
+2024-12-18 05:06:00 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:06:00 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:06:00 [..] Webserver starting on 4005
+2024-12-18 05:06:00 [..] Server successfully reloaded.
+2024-12-18 05:06:14 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 05:06:14 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 05:06:31 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-18 05:08:05 [..] Server disconnected from the portal.
+2024-12-18 05:08:05 [..] Main loop terminated.
+2024-12-18 05:08:05 [..] Server Shut Down.
+2024-12-18 05:08:06 [..] Loaded.
+2024-12-18 05:08:05 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:08:06 [..] Loaded.
+2024-12-18 05:08:06 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:08:06 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:08:06 [..] Webserver starting on 4005
+2024-12-18 05:08:06 [..] Server successfully reloaded.
+2024-12-18 05:08:16 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 05:08:16 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 05:09:03 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-18 05:10:03 [..] Server disconnected from the portal.
+2024-12-18 05:10:03 [..] Main loop terminated.
+2024-12-18 05:10:03 [..] Server Shut Down.
+2024-12-18 05:10:04 [..] Loaded.
+2024-12-18 05:10:03 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:10:04 [..] Loaded.
+2024-12-18 05:10:04 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:10:04 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:10:04 [..] Webserver starting on 4005
+2024-12-18 05:10:04 [..] Server successfully reloaded.
+2024-12-18 05:10:17 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 05:10:17 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 05:10:18 [..] [DEBUG] Starting dynamic command loading...
+2024-12-18 05:10:18 [..] [DEBUG] Attempting to load: commands.dynamic.emote_system_advanced
+2024-12-18 05:10:27 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-18 05:19:04 [WW] Warning: Idmapper flush called more than once in 5.0 min interval. Check memory usage.
+2024-12-18 05:22:07 [..] Server disconnected from the portal.
+2024-12-18 05:22:07 [..] Main loop terminated.
+2024-12-18 05:22:07 [..] Server Shut Down.
+2024-12-18 05:22:08 [..] Loaded.
+2024-12-18 05:22:08 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:22:08 [..] Loaded.
+2024-12-18 05:22:08 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:22:08 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:22:08 [..] Webserver starting on 4005
+2024-12-18 05:22:08 [..] Server successfully reloaded.
+2024-12-18 05:29:10 [..] Server disconnected from the portal.
+2024-12-18 05:29:10 [..] Main loop terminated.
+2024-12-18 05:29:10 [..] Server Shut Down.
+2024-12-18 05:29:11 [..] Loaded.
+2024-12-18 05:29:11 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:29:11 [..] Loaded.
+2024-12-18 05:29:11 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:29:11 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:29:11 [..] Webserver starting on 4005
+2024-12-18 05:29:11 [..] Server successfully reloaded.
+2024-12-18 05:29:19 [!!] Traceback (most recent call last):
+2024-12-18 05:29:19 [!!]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:29:19 [!!]     module = import_module(modpath, package="evennia")
+2024-12-18 05:29:19 [!!]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:29:19 [!!]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:29:19 [!!]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:29:19 [!!]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:29:19 [!!]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:29:19 [!!]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:29:19 [!!]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:29:19 [!!]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:29:19 [!!]   File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+2024-12-18 05:29:19 [!!]   File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+2024-12-18 05:29:19 [!!]   File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+2024-12-18 05:29:19 [!!]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:29:19 [!!]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 68
+2024-12-18 05:29:19 [!!]     def at_cmdset_creation(self):
+2024-12-18 05:29:19 [!!] IndentationError: unexpected indent
+2024-12-18 05:29:19 [EE] Traceback (most recent call last):
+2024-12-18 05:29:19 [EE]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:29:19 [EE]     module = import_module(modpath, package="evennia")
+2024-12-18 05:29:19 [EE]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:29:19 [EE]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:29:19 [EE]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:29:19 [EE]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:29:19 [EE]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:29:19 [EE]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:29:19 [EE]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:29:19 [EE]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:29:19 [EE]   File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+2024-12-18 05:29:19 [EE]   File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+2024-12-18 05:29:19 [EE]   File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+2024-12-18 05:29:19 [EE]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:29:19 [EE]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 68
+2024-12-18 05:29:19 [EE]     def at_cmdset_creation(self):
+2024-12-18 05:29:19 [EE] IndentationError: unexpected indent
+None2024-12-18 05:29:19 [EE] SyntaxError encountered when loading cmdset 'commands.default_cmdsets.UnloggedinCmdSet'.
+2024-12-18 05:29:19 [EE] (Traceback was logged 24-12-18 05:29:19)
+None2024-12-18 05:29:19 [EE] Error encountered for cmdset at path 'commands.default_cmdsets.UnloggedinCmdSet'.
+2024-12-18 05:29:19 [EE] Replacing with fallback 'evennia.commands.default.cmdset_unloggedin.UnloggedinCmdSet'.
+2024-12-18 05:32:39 [..] Server disconnected from the portal.
+2024-12-18 05:32:39 [..] Main loop terminated.
+2024-12-18 05:32:39 [..] Server Shut Down.
+2024-12-18 05:32:40 [..] Loaded.
+2024-12-18 05:32:39 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:32:40 [..] Loaded.
+2024-12-18 05:32:40 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:32:40 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:32:40 [..] Webserver starting on 4005
+2024-12-18 05:32:40 [..] Server successfully reloaded.
+2024-12-18 05:32:45 [!!] Traceback (most recent call last):
+2024-12-18 05:32:45 [!!]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:32:45 [!!]     module = import_module(modpath, package="evennia")
+2024-12-18 05:32:45 [!!]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:32:45 [!!]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:32:45 [!!]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:32:45 [!!]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:32:45 [!!]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:32:45 [!!]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:32:45 [!!]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:32:45 [!!]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:32:45 [!!]   File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+2024-12-18 05:32:45 [!!]   File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+2024-12-18 05:32:45 [!!]   File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+2024-12-18 05:32:45 [!!]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:32:45 [!!]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 68
+2024-12-18 05:32:45 [!!]     def at_cmdset_creation(self):
+2024-12-18 05:32:45 [!!] IndentationError: unexpected indent
+2024-12-18 05:32:45 [EE] Traceback (most recent call last):
+2024-12-18 05:32:45 [EE]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:32:45 [EE]     module = import_module(modpath, package="evennia")
+2024-12-18 05:32:45 [EE]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:32:45 [EE]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:32:45 [EE]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:32:45 [EE]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:32:45 [EE]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:32:45 [EE]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:32:45 [EE]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:32:45 [EE]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:32:45 [EE]   File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+2024-12-18 05:32:45 [EE]   File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+2024-12-18 05:32:45 [EE]   File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+2024-12-18 05:32:45 [EE]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:32:45 [EE]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 68
+2024-12-18 05:32:45 [EE]     def at_cmdset_creation(self):
+2024-12-18 05:32:45 [EE] IndentationError: unexpected indent
+None2024-12-18 05:32:45 [EE] SyntaxError encountered when loading cmdset 'commands.default_cmdsets.UnloggedinCmdSet'.
+2024-12-18 05:32:45 [EE] (Traceback was logged 24-12-18 05:32:45)
+None2024-12-18 05:32:45 [EE] Error encountered for cmdset at path 'commands.default_cmdsets.UnloggedinCmdSet'.
+2024-12-18 05:32:45 [EE] Replacing with fallback 'evennia.commands.default.cmdset_unloggedin.UnloggedinCmdSet'.
+2024-12-18 05:35:22 [..] Server disconnected from the portal.
+2024-12-18 05:35:22 [..] Main loop terminated.
+2024-12-18 05:35:22 [..] Server Shut Down.
+2024-12-18 05:35:23 [..] Loaded.
+2024-12-18 05:35:22 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:35:23 [..] Loaded.
+2024-12-18 05:35:23 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:35:23 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:35:23 [..] Webserver starting on 4005
+2024-12-18 05:35:23 [..] Server successfully reloaded.
+2024-12-18 05:35:25 [!!] Traceback (most recent call last):
+2024-12-18 05:35:25 [!!]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 186, in import_cmdset
+2024-12-18 05:35:25 [!!]     raise exc.with_traceback(tb)
+2024-12-18 05:35:25 [!!]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:35:25 [!!]     module = import_module(modpath, package="evennia")
+2024-12-18 05:35:25 [!!]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:35:25 [!!]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:35:25 [!!]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:35:25 [!!]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:35:25 [!!]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:35:25 [!!]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:35:25 [!!]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:35:25 [!!]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:35:25 [!!]   File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+2024-12-18 05:35:25 [!!]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:35:25 [!!]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 2, in <module>
+2024-12-18 05:35:25 [!!]     from commands.command_auto_loader import setup_dynamic_commands  # Dynamic loader
+2024-12-18 05:35:25 [!!]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:35:25 [!!] ModuleNotFoundError: No module named 'commands.command_auto_loader'
+2024-12-18 05:35:25 [EE] Traceback (most recent call last):
+2024-12-18 05:35:25 [EE]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 186, in import_cmdset
+2024-12-18 05:35:25 [EE]     raise exc.with_traceback(tb)
+2024-12-18 05:35:25 [EE]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:35:25 [EE]     module = import_module(modpath, package="evennia")
+2024-12-18 05:35:25 [EE]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:35:25 [EE]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:35:25 [EE]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:35:25 [EE]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:35:25 [EE]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:35:25 [EE]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:35:25 [EE]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:35:25 [EE]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:35:25 [EE]   File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+2024-12-18 05:35:25 [EE]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:35:25 [EE]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 2, in <module>
+2024-12-18 05:35:25 [EE]     from commands.command_auto_loader import setup_dynamic_commands  # Dynamic loader
+2024-12-18 05:35:25 [EE]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:35:25 [EE] ModuleNotFoundError: No module named 'commands.command_auto_loader'
+None2024-12-18 05:35:25 [EE] Error loading cmdset 'commands.default_cmdsets.UnloggedinCmdSet'
+2024-12-18 05:35:25 [EE] (Traceback was logged 24-12-18 05:35:25)
+None2024-12-18 05:35:25 [EE] Error encountered for cmdset at path 'commands.default_cmdsets.UnloggedinCmdSet'.
+2024-12-18 05:35:25 [EE] Replacing with fallback 'evennia.commands.default.cmdset_unloggedin.UnloggedinCmdSet'.
+2024-12-18 05:37:23 [..] Server disconnected from the portal.
+2024-12-18 05:37:23 [..] Main loop terminated.
+2024-12-18 05:37:23 [..] Server Shut Down.
+2024-12-18 05:37:24 [..] Loaded.
+2024-12-18 05:37:24 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:37:24 [..] Loaded.
+2024-12-18 05:37:24 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:37:24 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:37:24 [..] Webserver starting on 4005
+2024-12-18 05:37:24 [..] Server successfully reloaded.
+2024-12-18 05:38:33 [!!] Traceback (most recent call last):
+2024-12-18 05:38:33 [!!]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 186, in import_cmdset
+2024-12-18 05:38:33 [!!]     raise exc.with_traceback(tb)
+2024-12-18 05:38:33 [!!]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:38:33 [!!]     module = import_module(modpath, package="evennia")
+2024-12-18 05:38:33 [!!]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:38:33 [!!]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:38:33 [!!]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:38:33 [!!]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:38:33 [!!]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:38:33 [!!]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:38:33 [!!]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:38:33 [!!]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:38:33 [!!]   File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+2024-12-18 05:38:33 [!!]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:38:33 [!!]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 2, in <module>
+2024-12-18 05:38:33 [!!]     from commands.command_auto_loader import setup_dynamic_commands  # Dynamic loader
+2024-12-18 05:38:33 [!!]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:38:33 [!!] ModuleNotFoundError: No module named 'commands.command_auto_loader'
+2024-12-18 05:38:33 [EE] Traceback (most recent call last):
+2024-12-18 05:38:33 [EE]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 186, in import_cmdset
+2024-12-18 05:38:33 [EE]     raise exc.with_traceback(tb)
+2024-12-18 05:38:33 [EE]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:38:33 [EE]     module = import_module(modpath, package="evennia")
+2024-12-18 05:38:33 [EE]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:38:33 [EE]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:38:33 [EE]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:38:33 [EE]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:38:33 [EE]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:38:33 [EE]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:38:33 [EE]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:38:33 [EE]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:38:33 [EE]   File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+2024-12-18 05:38:33 [EE]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:38:33 [EE]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 2, in <module>
+2024-12-18 05:38:33 [EE]     from commands.command_auto_loader import setup_dynamic_commands  # Dynamic loader
+2024-12-18 05:38:33 [EE]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:38:33 [EE] ModuleNotFoundError: No module named 'commands.command_auto_loader'
+None2024-12-18 05:38:33 [EE] Error loading cmdset 'commands.default_cmdsets.UnloggedinCmdSet'
+2024-12-18 05:38:33 [EE] (Traceback was logged 24-12-18 05:38:33)
+None2024-12-18 05:38:33 [EE] Error encountered for cmdset at path 'commands.default_cmdsets.UnloggedinCmdSet'.
+2024-12-18 05:38:33 [EE] Replacing with fallback 'evennia.commands.default.cmdset_unloggedin.UnloggedinCmdSet'.
+2024-12-18 05:43:58 [..] Server disconnected from the portal.
+2024-12-18 05:43:58 [..] Main loop terminated.
+2024-12-18 05:43:58 [..] Server Shut Down.
+2024-12-18 05:43:59 [..] Loaded.
+2024-12-18 05:43:58 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:43:59 [..] Loaded.
+2024-12-18 05:43:59 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:43:59 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:43:59 [..] Webserver starting on 4005
+2024-12-18 05:43:59 [..] Server successfully reloaded.
+2024-12-18 05:44:23 [!!] Traceback (most recent call last):
+2024-12-18 05:44:23 [!!]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 186, in import_cmdset
+2024-12-18 05:44:23 [!!]     raise exc.with_traceback(tb)
+2024-12-18 05:44:23 [!!]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:44:23 [!!]     module = import_module(modpath, package="evennia")
+2024-12-18 05:44:23 [!!]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:44:23 [!!]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:44:23 [!!]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:44:23 [!!]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:44:23 [!!]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:44:23 [!!]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:44:23 [!!]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:44:23 [!!]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:44:23 [!!]   File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+2024-12-18 05:44:23 [!!]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:44:23 [!!]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 2, in <module>
+2024-12-18 05:44:23 [!!]     from commands.command_auto_loader import setup_dynamic_commands  # Dynamic loader
+2024-12-18 05:44:23 [!!]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:44:23 [!!] ModuleNotFoundError: No module named 'commands.command_auto_loader'
+2024-12-18 05:44:23 [EE] Traceback (most recent call last):
+2024-12-18 05:44:23 [EE]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 186, in import_cmdset
+2024-12-18 05:44:23 [EE]     raise exc.with_traceback(tb)
+2024-12-18 05:44:23 [EE]   File "/home/tony/mainmud/env/lib/python3.12/site-packages/evennia/commands/cmdsethandler.py", line 181, in import_cmdset
+2024-12-18 05:44:23 [EE]     module = import_module(modpath, package="evennia")
+2024-12-18 05:44:23 [EE]              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:44:23 [EE]   File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+2024-12-18 05:44:23 [EE]     return _bootstrap._gcd_import(name[level:], package, level)
+2024-12-18 05:44:23 [EE]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:44:23 [EE]   File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+2024-12-18 05:44:23 [EE]   File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+2024-12-18 05:44:23 [EE]   File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+2024-12-18 05:44:23 [EE]   File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+2024-12-18 05:44:23 [EE]   File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+2024-12-18 05:44:23 [EE]   File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+2024-12-18 05:44:23 [EE]   File "/home/tony/mainmud/rrmud/commands/default_cmdsets.py", line 2, in <module>
+2024-12-18 05:44:23 [EE]     from commands.command_auto_loader import setup_dynamic_commands  # Dynamic loader
+2024-12-18 05:44:23 [EE]     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-12-18 05:44:23 [EE] ModuleNotFoundError: No module named 'commands.command_auto_loader'
+None2024-12-18 05:44:23 [EE] Error loading cmdset 'commands.default_cmdsets.UnloggedinCmdSet'
+2024-12-18 05:44:23 [EE] (Traceback was logged 24-12-18 05:44:23)
+None2024-12-18 05:44:23 [EE] Error encountered for cmdset at path 'commands.default_cmdsets.UnloggedinCmdSet'.
+2024-12-18 05:44:23 [EE] Replacing with fallback 'evennia.commands.default.cmdset_unloggedin.UnloggedinCmdSet'.
+2024-12-18 05:45:47 [..] Server disconnected from the portal.
+2024-12-18 05:45:47 [..] Main loop terminated.
+2024-12-18 05:45:47 [..] Server Shut Down.
+2024-12-18 05:45:48 [..] Loaded.
+2024-12-18 05:45:47 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:45:48 [..] Loaded.
+2024-12-18 05:45:48 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:45:48 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:45:48 [..] Webserver starting on 4005
+2024-12-18 05:45:48 [..] Server successfully reloaded.
+2024-12-18 05:48:12 [..] Server disconnected from the portal.
+2024-12-18 05:48:12 [..] Main loop terminated.
+2024-12-18 05:48:12 [..] Server Shut Down.
+2024-12-18 05:48:13 [..] Loaded.
+2024-12-18 05:48:12 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:48:13 [..] Loaded.
+2024-12-18 05:48:13 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:48:13 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:48:13 [..] Webserver starting on 4005
+2024-12-18 05:48:13 [..] Server successfully reloaded.
+2024-12-18 05:48:32 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 05:48:32 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 05:48:33 [..] [DEBUG] Detected command: emote in emote_system_advanced.py
+2024-12-18 05:48:33 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced.py
+2024-12-18 05:48:33 [..] [DEBUG] Detected command: command in emote_system_advanced.py
+2024-12-18 05:48:33 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced.py
+2024-12-18 05:48:33 [..] [INFO] Added command: emote to CmdSet
+2024-12-18 05:48:33 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:48:33 [..] [INFO] Added command: command to CmdSet
+2024-12-18 05:48:33 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:48:41 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-18 05:52:07 [..] Server disconnected from the portal.
+2024-12-18 05:52:07 [..] Main loop terminated.
+2024-12-18 05:52:07 [..] Server Shut Down.
+2024-12-18 05:52:08 [..] Loaded.
+2024-12-18 05:52:07 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:52:08 [..] Loaded.
+2024-12-18 05:52:08 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:52:08 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:52:08 [..] Webserver starting on 4005
+2024-12-18 05:52:08 [..] Server successfully reloaded.
+2024-12-18 05:54:54 [..] Server disconnected from the portal.
+2024-12-18 05:54:54 [..] Main loop terminated.
+2024-12-18 05:54:54 [..] Server Shut Down.
+2024-12-18 05:54:55 [..] Loaded.
+2024-12-18 05:54:54 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:54:55 [..] Loaded.
+2024-12-18 05:54:55 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:54:55 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:54:55 [..] Webserver starting on 4005
+2024-12-18 05:54:55 [..] Server successfully reloaded.
+2024-12-18 05:55:09 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 05:55:09 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 05:55:10 [..] [DEBUG] Detected command: emote in emote_system_advanced.py
+2024-12-18 05:55:10 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced.py
+2024-12-18 05:55:10 [..] [DEBUG] Detected command: command in emote_system_advanced.py
+2024-12-18 05:55:10 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced.py
+2024-12-18 05:55:10 [..] [DEBUG] Detected command: emote2 in emote_system_advanced2.py
+2024-12-18 05:55:10 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced2.py
+2024-12-18 05:55:10 [..] [DEBUG] Detected command: command in emote_system_advanced2.py
+2024-12-18 05:55:10 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced2.py
+2024-12-18 05:55:10 [..] [INFO] Added command: emote to CmdSet
+2024-12-18 05:55:10 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:55:10 [..] [INFO] Added command: command to CmdSet
+2024-12-18 05:55:10 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:55:10 [..] [INFO] Added command: emote2 to CmdSet
+2024-12-18 05:55:10 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:55:10 [..] [INFO] Added command: command to CmdSet
+2024-12-18 05:55:10 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:55:41 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-18 05:57:56 [..] Server disconnected from the portal.
+2024-12-18 05:57:56 [..] Main loop terminated.
+2024-12-18 05:57:56 [..] Server Shut Down.
+2024-12-18 05:57:57 [..] Loaded.
+2024-12-18 05:57:56 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-18 05:57:57 [..] Loaded.
+2024-12-18 05:57:57 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-18 05:57:57 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-18 05:57:57 [..] Webserver starting on 4005
+2024-12-18 05:57:57 [..] Server successfully reloaded.
+2024-12-18 05:58:04 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-18 05:58:04 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-18 05:58:05 [..] [DEBUG] Detected command: emote in emote_system_advanced.py
+2024-12-18 05:58:05 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced.py
+2024-12-18 05:58:05 [..] [DEBUG] Detected command: command in emote_system_advanced.py
+2024-12-18 05:58:05 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced.py
+2024-12-18 05:58:05 [..] [DEBUG] Detected command: emote2 in emote_system_advanced2.py
+2024-12-18 05:58:05 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced2.py
+2024-12-18 05:58:05 [..] [DEBUG] Detected command: command in emote_system_advanced2.py
+2024-12-18 05:58:05 [..] [DEBUG] Detected command: Unnamed CmdSet in emote_system_advanced2.py
+2024-12-18 05:58:05 [..] [INFO] Added command: emote to CmdSet
+2024-12-18 05:58:05 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:58:05 [..] [INFO] Added command: command to CmdSet
+2024-12-18 05:58:05 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:58:05 [..] [INFO] Added command: emote2 to CmdSet
+2024-12-18 05:58:05 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:58:05 [..] [INFO] Added command: command to CmdSet
+2024-12-18 05:58:05 [..] [INFO] Added command: Unnamed CmdSet to CmdSet
+2024-12-18 05:58:09 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
