@@ -1256,3 +1256,72 @@ None2024-12-19 03:32:09 [EE] Error encountered for cmdset at path 'commands.defa
 2024-12-19 03:35:19 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
 2024-12-19 03:35:23 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
 2024-12-19 03:43:15 [WW] Warning: Idmapper flush called more than once in 5.0 min interval. Check memory usage.
+2024-12-19 03:51:42 [..] Server disconnected from the portal.
+2024-12-19 03:51:42 [..] Main loop terminated.
+2024-12-19 03:51:42 [..] Server Shut Down.
+2024-12-19 03:51:47 [..] Loaded.
+2024-12-19 03:51:46 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-19 03:51:47 [..] Loaded.
+2024-12-19 03:51:47 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-19 03:51:47 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-19 03:51:47 [..] Webserver starting on 4005
+2024-12-19 03:51:47 [..] Evennia Server successfully started.
+2024-12-19 03:51:55 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-19 03:51:55 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-19 03:51:57 [EE] Error loading emote_system_advanced.py: unexpected indent (emote_system_advanced.py, line 4)
+2024-12-19 03:51:57 [..] Loaded dynamic command: CmdTest (test)
+2024-12-19 03:51:57 [..] Loaded dynamic command: CmdEmote2 (emote2)
+2024-12-19 03:51:57 [..] Dynamic commands successfully added to DefaultCharacter
+2024-12-19 03:52:03 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-19 04:00:54 [..] Server disconnected from the portal.
+2024-12-19 04:00:54 [..] Main loop terminated.
+2024-12-19 04:00:54 [..] Server Shut Down.
+2024-12-19 04:00:58 [..] Loaded.
+2024-12-19 04:00:57 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/server.py...
+2024-12-19 04:00:58 [..] Loaded.
+2024-12-19 04:00:58 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+2024-12-19 04:00:58 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+2024-12-19 04:00:58 [..] Webserver starting on 4005
+2024-12-19 04:00:58 [..] Evennia Server successfully started.
+2024-12-19 04:01:07 [SS] Authentication Success: drakmardok(account 1) (IP: 127.0.0.1).
+2024-12-19 04:01:07 [..] Logged in: drakmardok(account 1) 127.0.0.1 (1 session(s) total)
+2024-12-19 04:01:09 [EE] Error loading emote_system_advanced.py: unexpected indent (emote_system_advanced.py, line 4)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdTest (test)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdApologize (apologize)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdApplaud (applaud)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdBlush (blush)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdBow (bow)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdCheer (cheer)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdClap (clap)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdCry (cry)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdDance (dance)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdEmote (command)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdFacepalm (facepalm)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdFarewell (farewell)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdGiggle (giggle)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdGoodbye (goodbye)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdGreet (greet)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdGreetings (greetings)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdGrin (grin)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdHello (hello)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdHi (hi)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdHug (hug)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdLaugh (laugh)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdNod (nod)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdSalute (salute)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdShrug (shrug)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdSigh (sigh)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdSmile (smile)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdThank (thank)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdThink (think)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdWave (wave)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdWelcome (welcome)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdWhistle (whistle)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdWink (wink)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdYawn (yawn)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdGrin (grin)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdGrin (grin)
+2024-12-19 04:01:09 [..] Loaded dynamic command: CmdEmote2 (emote2)
+2024-12-19 04:01:09 [..] Dynamic commands successfully added to DefaultCharacter
+2024-12-19 04:01:13 [..] Logged out: drakmardok(account 1) 127.0.0.1 (0 sessions(s) remaining) (quit)
+2024-12-19 04:09:58 [WW] Warning: Idmapper flush called more than once in 5.0 min interval. Check memory usage.

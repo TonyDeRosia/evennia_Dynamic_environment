@@ -108,3 +108,35 @@
 |Portal| 2024-12-19 03:34:14 [..] Websocket starting on 4002
 |Portal| 2024-12-19 03:34:14 [..] Webserver-proxy starting on 4001
 |Portal| 2024-12-19 03:34:14 [..] Portal starting server ... 
+|Portal| 2024-12-19 03:51:42 [..] (TCP Port 4001 Closed)
+|Portal| 2024-12-19 03:51:42 [..] (TCP Port 4002 Closed)
+|Portal| 2024-12-19 03:51:42 [..] (TCP Port 4000 Closed)
+|Portal| 2024-12-19 03:51:42 [..] (TCP Port 4006 Closed)
+|Portal| 2024-12-19 03:51:42 [..] Main loop terminated.
+|Portal| 2024-12-19 03:51:42 [..] Server Shut Down.
+|Portal| 2024-12-19 03:51:45 [..] Loaded.
+|Portal| 2024-12-19 03:51:44 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/portal/portal.py...
+|Portal| 2024-12-19 03:51:45 [..] Loaded.
+|Portal| 2024-12-19 03:51:45 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+|Portal| 2024-12-19 03:51:45 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+|Portal| 2024-12-19 03:51:45 [..] AMP starting on 4006
+|Portal| 2024-12-19 03:51:45 [..] Telnet starting on 4000
+|Portal| 2024-12-19 03:51:45 [..] Websocket starting on 4002
+|Portal| 2024-12-19 03:51:45 [..] Webserver-proxy starting on 4001
+|Portal| 2024-12-19 03:51:46 [..] Portal starting server ... 
+|Portal| 2024-12-19 04:00:54 [..] (TCP Port 4001 Closed)
+|Portal| 2024-12-19 04:00:54 [..] (TCP Port 4002 Closed)
+|Portal| 2024-12-19 04:00:54 [..] (TCP Port 4000 Closed)
+|Portal| 2024-12-19 04:00:54 [..] (TCP Port 4006 Closed)
+|Portal| 2024-12-19 04:00:54 [..] Main loop terminated.
+|Portal| 2024-12-19 04:00:54 [..] Server Shut Down.
+|Portal| 2024-12-19 04:00:57 [..] Loaded.
+|Portal| 2024-12-19 04:00:56 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/portal/portal.py...
+|Portal| 2024-12-19 04:00:57 [..] Loaded.
+|Portal| 2024-12-19 04:00:57 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+|Portal| 2024-12-19 04:00:57 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+|Portal| 2024-12-19 04:00:57 [..] AMP starting on 4006
+|Portal| 2024-12-19 04:00:57 [..] Telnet starting on 4000
+|Portal| 2024-12-19 04:00:57 [..] Websocket starting on 4002
+|Portal| 2024-12-19 04:00:57 [..] Webserver-proxy starting on 4001
+|Portal| 2024-12-19 04:00:57 [..] Portal starting server ... 
