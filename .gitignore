@@ -54,3 +54,13 @@ nosetests.xml
 
 # VSCode config
 .vscode
+__pycache__/
+*.pyc
+server/logs/
+server/*.pid
+server/evennia.db3
+
+server/logs/*
+fix_git.py
+server/*.db3
+cleanup_git.py

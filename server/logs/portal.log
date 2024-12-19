@@ -81,3 +81,30 @@
 |Portal| 2024-12-18 05:52:07 [..] Portal starting server ... 
 |Portal| 2024-12-18 05:54:54 [..] Portal starting server ... 
 |Portal| 2024-12-18 05:57:56 [..] Portal starting server ... 
+|Portal| 2024-12-19 03:32:04 [..] Loaded.
+|Portal| 2024-12-19 03:32:03 [!!] Removing stale pidfile /home/tony/mainmud/rrmud/server/portal.pid
+|Portal| 2024-12-19 03:32:03 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/portal/portal.py...
+|Portal| 2024-12-19 03:32:04 [..] Loaded.
+|Portal| 2024-12-19 03:32:04 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+|Portal| 2024-12-19 03:32:04 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+|Portal| 2024-12-19 03:32:04 [..] AMP starting on 4006
+|Portal| 2024-12-19 03:32:04 [..] Telnet starting on 4000
+|Portal| 2024-12-19 03:32:04 [..] Websocket starting on 4002
+|Portal| 2024-12-19 03:32:04 [..] Webserver-proxy starting on 4001
+|Portal| 2024-12-19 03:32:04 [..] Portal starting server ... 
+|Portal| 2024-12-19 03:34:11 [..] (TCP Port 4001 Closed)
+|Portal| 2024-12-19 03:34:11 [..] (TCP Port 4002 Closed)
+|Portal| 2024-12-19 03:34:11 [..] (TCP Port 4000 Closed)
+|Portal| 2024-12-19 03:34:11 [..] (TCP Port 4006 Closed)
+|Portal| 2024-12-19 03:34:11 [..] Main loop terminated.
+|Portal| 2024-12-19 03:34:11 [..] Server Shut Down.
+|Portal| 2024-12-19 03:34:14 [..] Loaded.
+|Portal| 2024-12-19 03:34:13 [..] Loading /home/tony/mainmud/env/lib/python3.12/site-packages/evennia/server/portal/portal.py...
+|Portal| 2024-12-19 03:34:14 [..] Loaded.
+|Portal| 2024-12-19 03:34:14 [..] twistd 23.10.0 (/home/tony/mainmud/env/bin/python3 3.12.3) starting up.
+|Portal| 2024-12-19 03:34:14 [..] reactor class: twisted.internet.epollreactor.EPollReactor.
+|Portal| 2024-12-19 03:34:14 [..] AMP starting on 4006
+|Portal| 2024-12-19 03:34:14 [..] Telnet starting on 4000
+|Portal| 2024-12-19 03:34:14 [..] Websocket starting on 4002
+|Portal| 2024-12-19 03:34:14 [..] Webserver-proxy starting on 4001
+|Portal| 2024-12-19 03:34:14 [..] Portal starting server ... 
