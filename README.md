@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Evennia Dynamic Environment!
 
 This project is designed as a base for creating MUDs (Multi-User Dungeons) or other text-based multiplayer games using Evennia. It includes a clean, ready-to-use setup with dynamic auto-loading capabilities to streamline game development.
@@ -114,4 +113,3 @@ Evennia's documentation is here:
 https://github.com/evennia/evennia/wiki.
 
 Enjoy!
->>>>>>> ba91aec (Backup of the project)
